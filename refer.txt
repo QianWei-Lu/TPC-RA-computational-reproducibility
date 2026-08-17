@@ -1,0 +1,176 @@
+Model
+Lasso
+Ridge
+Enet [alpha=0.2]
+Enet [alpha=0.4]
+Enet [alpha=0.5]
+Enet [alpha=0.6]
+Enet [alpha=0.8]
+Stepglm [forward]
+Stepglm [both]
+Stepglm [backward]
+glmBoost
+plsRglm
+RF
+GBM
+XGBoost
+SVM
+LDA
+QDA
+KNN
+NaiveBayes
+AdaBoost
+Lasso + SVM
+Lasso + LDA
+Lasso + QDA
+Lasso + KNN
+Lasso + NaiveBayes
+Lasso + GBM
+Lasso + XGBoost
+Lasso + AdaBoost
+Lasso + RF
+Lasso + glmBoost
+Lasso + plsRglm
+Lasso + Stepglm [forward]
+Lasso + Stepglm [both]
+Lasso + Stepglm [backward]
+Ridge + SVM
+Ridge + LDA
+Ridge + QDA
+Ridge + KNN
+Ridge + NaiveBayes
+Ridge + GBM
+Ridge + XGBoost
+Ridge + AdaBoost
+Ridge + RF
+Ridge + glmBoost
+Ridge + plsRglm
+Enet [alpha=0.2] + SVM
+Enet [alpha=0.2] + LDA
+Enet [alpha=0.2] + GBM
+Enet [alpha=0.2] + XGBoost
+Enet [alpha=0.2] + RF
+Enet [alpha=0.5] + SVM
+Enet [alpha=0.5] + LDA
+Enet [alpha=0.5] + QDA
+Enet [alpha=0.5] + KNN
+Enet [alpha=0.5] + NaiveBayes
+Enet [alpha=0.5] + GBM
+Enet [alpha=0.5] + XGBoost
+Enet [alpha=0.5] + AdaBoost
+Enet [alpha=0.5] + RF
+Enet [alpha=0.5] + glmBoost
+Enet [alpha=0.5] + plsRglm
+Enet [alpha=0.8] + SVM
+Enet [alpha=0.8] + LDA
+Enet [alpha=0.8] + GBM
+Enet [alpha=0.8] + XGBoost
+Enet [alpha=0.8] + RF
+Stepglm [forward] + SVM
+Stepglm [forward] + LDA
+Stepglm [forward] + QDA
+Stepglm [forward] + KNN
+Stepglm [forward] + NaiveBayes
+Stepglm [forward] + GBM
+Stepglm [forward] + XGBoost
+Stepglm [forward] + AdaBoost
+Stepglm [forward] + RF
+Stepglm [forward] + Lasso
+Stepglm [forward] + Ridge
+Stepglm [forward] + Enet [alpha=0.5]
+Stepglm [both] + SVM
+Stepglm [both] + LDA
+Stepglm [both] + QDA
+Stepglm [both] + KNN
+Stepglm [both] + NaiveBayes
+Stepglm [both] + GBM
+Stepglm [both] + XGBoost
+Stepglm [both] + AdaBoost
+Stepglm [both] + RF
+Stepglm [both] + Lasso
+Stepglm [both] + Ridge
+Stepglm [both] + Enet [alpha=0.5]
+Stepglm [both] + glmBoost
+Stepglm [both] + plsRglm
+Stepglm [backward] + SVM
+Stepglm [backward] + LDA
+Stepglm [backward] + QDA
+Stepglm [backward] + KNN
+Stepglm [backward] + NaiveBayes
+Stepglm [backward] + GBM
+Stepglm [backward] + XGBoost
+Stepglm [backward] + AdaBoost
+Stepglm [backward] + RF
+Stepglm [backward] + Lasso
+Stepglm [backward] + Ridge
+Stepglm [backward] + Enet [alpha=0.5]
+Stepglm [backward] + glmBoost
+glmBoost + SVM
+glmBoost + LDA
+glmBoost + QDA
+glmBoost + KNN
+glmBoost + NaiveBayes
+glmBoost + GBM
+glmBoost + XGBoost
+glmBoost + AdaBoost
+glmBoost + RF
+glmBoost + Lasso
+glmBoost + Ridge
+glmBoost + Enet [alpha=0.5]
+glmBoost + plsRglm
+glmBoost + Stepglm [forward]
+glmBoost + Stepglm [both]
+glmBoost + Stepglm [backward]
+plsRglm + SVM
+plsRglm + LDA
+plsRglm + QDA
+plsRglm + KNN
+plsRglm + NaiveBayes
+plsRglm + GBM
+plsRglm + XGBoost
+plsRglm + AdaBoost
+plsRglm + RF
+plsRglm + Lasso
+plsRglm + Ridge
+plsRglm + Enet [alpha=0.5]
+RF + SVM
+RF + LDA
+RF + QDA
+RF + KNN
+RF + NaiveBayes
+RF + GBM
+RF + XGBoost
+RF + AdaBoost
+RF + Lasso
+RF + Ridge
+RF + Enet [alpha=0.2]
+RF + Enet [alpha=0.5]
+RF + Enet [alpha=0.8]
+RF + glmBoost
+RF + plsRglm
+RF + Stepglm [forward]
+RF + Stepglm [both]
+RF + Stepglm [backward]
+GBM + SVM
+GBM + LDA
+GBM + KNN
+GBM + RF
+XGBoost + SVM
+XGBoost + LDA
+XGBoost + KNN
+XGBoost + RF
+AdaBoost + SVM
+AdaBoost + LDA
+AdaBoost + KNN
+AdaBoost + RF
+Lasso + Ridge
+Lasso + Enet [alpha=0.5]
+Ridge + Enet [alpha=0.5]
+Lasso + GBM + RF
+RF + XGBoost + SVM
+Stepglm [both] + Lasso + GBM
+glmBoost + RF + SVM
+Lasso + AdaBoost + KNN
+RF + GBM + LDA
+Stepglm [backward] + XGBoost + RF
+glmBoost + XGBoost + LDA
